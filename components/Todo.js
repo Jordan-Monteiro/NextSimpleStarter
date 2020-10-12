@@ -99,7 +99,7 @@ const Todo = () => {
 						fullWidth
 						value={text}
 						margin="normal"
-						label="What must be done?"
+						label="Bonjour"
 						onChange={handleTextChange}
 						inputProps={{ 'aria-label': 'What must be done?' }}
 					/>
