@@ -20,7 +20,7 @@ const Fork = ({ stars }) => {
 					target="_blank"
 					variant="extended"
 					rel="noreferrer noopener"
-					href="https://github.com/ooade/NextSimpleStarter"
+					href="https://github.com/Jordan-Monteiro/NextSimpleStarter"
 				>
 					Fork me
 				</Fab>
